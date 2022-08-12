@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi Form Zahidul
 #### I am  Laravel Lover
-![I am  Laravel Lover](https://codebrisk.com/assets/images/posts/1625808060_laravel-banner1.webp)(https://zahidul1994.github.io/myprotfolio)
+![I am  Laravel Lover](https://codebrisk.com/assets/images/posts/1625808060_laravel-banner1.webp)
 
 
 I Am Laravel Hero Vue On My Future
