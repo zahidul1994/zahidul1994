@@ -1,12 +1,13 @@
 ### Hi there 👋, Hi Form Zahidul
 #### I am  Laravel Lover
-![I am  Laravel Lover](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am  Laravel Lover](https://codebrisk.com/assets/images/posts/1625808060_laravel-banner1.webp)(https://zahidul1994.github.io/myprotfolio)
+
 
 I Am Laravel Hero Vue On My Future
 
 Skills: Laravel/VUE JS /Nuxt Js/ Rest  API/ JS /JQUERY/ HTML / CSS
 
-https://zahidul1994.github.io/myprotfolio/
+
 
 - 🔭 I’m currently working on Starit Ltd 
 - 🌱 I’m currently learning Laravel and Vuejs 
