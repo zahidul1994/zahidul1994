@@ -4,7 +4,9 @@
 
 I Am Laravel Hero Vue On My Future
 
-Skills: Laravel/VUE JS / Rest  API/ JS /JQUERY/ HTML / CSS
+Skills: Laravel/VUE JS /Nuxt Js/ Rest  API/ JS /JQUERY/ HTML / CSS
+
+https://zahidul1994.github.io/myprotfolio/
 
 - 🔭 I’m currently working on Starit Ltd 
 - 🌱 I’m currently learning Laravel and Vuejs 
