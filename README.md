@@ -1,6 +1,6 @@
-### Hi there 👋, Hi  Everyone
+### ٱلسَّلَامُ عَلَيْكُمْ
 #### I am  Laravel Lover 
-![I am  Laravel Lover](https://codebrisk.com/assets/images/posts/1625808060_laravel-banner1.webp)
+![I am  Laravel Lover]([https://codebrisk.com/assets/images/posts/1625808060_laravel-banner1.webp](https://res.cloudinary.com/benjamincrozat-com/image/fetch/c_scale,f_webp,q_auto,w_1200/https://github.com/benjamincrozat/content/assets/3613731/79997924-366b-4969-98d6-bd0a7280ab25))
 
 
 I Am Laravel Hero Vue On My Future
@@ -28,12 +28,4 @@ Skills: Laravel/VUE JS /Nuxt Js/ Rest  API/ JS /JQUERY/ HTML / CSS
 <img align="center" width="100%" style="margin-top: 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=zahidul1994&" alt="zahidul1994" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidul1994)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidul1994&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zahidul1994)  
-
-![GitHub metrics](https://metrics.lecoq.io/zahidul1994)  
-
-![Profile views](https://gpvc.arturio.dev/zahidul1994)  
