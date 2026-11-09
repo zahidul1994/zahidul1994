@@ -22,8 +22,8 @@
 - 🐘 **Core Expertise:** Designing robust, high-traffic web architectures primarily with **Laravel & Modern PHP**.
 - 🐳 **DevOps & Containerization:** Streamlining reproducible environments and deployments using **Docker & Docker Compose**.
 - 🤖 **AI-Driven Engineering:** Utilizing **AI Prompt Engineering**, LLM integrations, and modern AI developer workflows to build smarter, faster software solutions.
-- 💼 **Professional Experience:** Software Engineer at **Star IT Ltd** & Founder/Lead Developer at **[SohiBD](https://sohibd.com)**.
-- 📱 **Mobile & Frontend Craft:** Building reactive SPAs with **Vue.js** and cross-platform native-performance apps with **Flutter & Dart** (Creator of **[SalatTime](https://github.com/zahidul1994/salat-time)**).
+- 💼 **Professional Experience:** Software Engineer at **RASA Technologies Ltd** & Founder/Lead Developer at **[SohiBD](https://www.sohibd.com)**.
+- 📱 **Mobile & Frontend Craft:** Building reactive SPAs with **Vue.js** and cross-platform native-performance apps with **Flutter & Dart** (Creator of **[SalatTime](https://www.sohibd.com/news/zahidul-developing-salat-time-app)**).
 - 💬 **Life Philosophy:** 
   > *"কোডিং করা আমার ধ্যান জ্ঞান — ইনশাআল্লাহ আমৃত্যু প্রযুক্তি ও মানুষের কল্যাণে এই পথেই থাকব।"*
 - ⚡ **Fun Fact:** *"First, solve the problem with clean architecture. Then, let Laravel & Docker handle the magic!"* 😎
@@ -86,7 +86,7 @@
           A modern Flutter cross-platform mobile application built with an offline-first architecture, background task scheduling for precise Azan alarms, geodesic calculation for Qibla direction, and multi-language support (বাংলা, English, العربية).
         </p>
         <p align="center">
-          <a href="https://github.com/zahidul1994/salat-time"><b>📂 View on GitHub</b></a> &nbsp;•&nbsp; 
+          <a href="[https://github.com/zahidul1994/salat-time](https://www.sohibd.com/salat-time)"><b>📂 View on SohibdBD</b></a> &nbsp;•&nbsp; 
           <a href="https://play.google.com/apps/testing/sohibd.com.salatime"><b>📲 Google Play Store (Beta)</b></a> &nbsp;•&nbsp;
           <a href="https://www.sohibd.com/news/zahidul-developing-salat-time-app"><b>📰 Press Release</b></a>
         </p>
