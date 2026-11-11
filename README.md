@@ -86,8 +86,8 @@
           A modern Flutter cross-platform mobile application built with an offline-first architecture, background task scheduling for precise Azan alarms, geodesic calculation for Qibla direction, and multi-language support (বাংলা, English, العربية).
         </p>
         <p align="center">
-          <a href="[https://github.com/zahidul1994/salat-time](https://www.sohibd.com/salat-time)"><b>📂 View on SohibdBD</b></a> &nbsp;•&nbsp; 
-          <a href="https://play.google.com/store/apps/details?id=sohibd.com.salatime"><b>📲 Google Play Store (Beta)</b></a> &nbsp;•&nbsp;
+          <a href="https://www.sohibd.com/salat-time"><b>📂 View on SohibdBD</b></a> &nbsp;•&nbsp; 
+          <a href="https://play.google.com/store/apps/details?id=sohibd.com.salatime"><b>📲 Google Play Store</b></a> &nbsp;•&nbsp;
           <a href="https://www.sohibd.com/news/zahidul-developing-salat-time-app"><b>📰 Press Release</b></a>
         </p>
       </td>
