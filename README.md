@@ -23,7 +23,7 @@
 - 🐳 **DevOps & Containerization:** Streamlining reproducible environments and deployments using **Docker & Docker Compose**.
 - 🤖 **AI-Driven Engineering:** Utilizing **AI Prompt Engineering**, LLM integrations, and modern AI developer workflows to build smarter, faster software solutions.
 - 💼 **Professional Experience:** Software Engineer at **RASA Technologies Ltd** & Founder/Lead Developer at **[SohiBD](https://www.sohibd.com)**.
-- 📱 **Mobile & Frontend Craft:** Building reactive SPAs with **Vue.js** and cross-platform native-performance apps with **Flutter & Dart** (Creator of **[SalatTime](https://www.sohibd.com/news/zahidul-developing-salat-time-app)**).
+- 📱 **Mobile & Frontend Craft:** Building reactive SPAs with **Vue.js** and cross-platform native-performance apps with **Flutter & Dart** (Creator of **[SalatTime](https://play.google.com/store/apps/details?id=sohibd.com.salatime)**).
 - 💬 **Life Philosophy:** 
   > *"কোডিং করা আমার ধ্যান জ্ঞান — ইনশাআল্লাহ আমৃত্যু প্রযুক্তি ও মানুষের কল্যাণে এই পথেই থাকব।"*
 - ⚡ **Fun Fact:** *"First, solve the problem with clean architecture. Then, let Laravel & Docker handle the magic!"* 😎
